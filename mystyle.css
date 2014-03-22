@@ -1,0 +1,32 @@
+.outmainu ul {
+	margin: 0px 0px;
+}
+.outmainu a {
+	text-align: center;
+	width: 400px;
+	text-decoration: none;
+	color: white;
+	background-color: lightsalmon;
+	padding: 3px 10px;
+}
+.outmainu a:hover {
+	background-color: black;
+  background-color: lightslategray;
+}
+.outmainu li {
+	list-style-type: none;
+	display: flex;
+}
+
+.outmainu{
+	float:left;
+	width:400px;
+	height:350px;
+	position: fixed;
+	top: 0;
+}
+
+*header {
+	position: absolute;
+	top:1;
+}
